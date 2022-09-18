@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Welcome to Pokemon Shuffle
+
+If you would like to use our app, go see [kbe-super-app](https://github.com/PokemonKBE/kbe-super-app) for instructions!
 
 <!--
 
